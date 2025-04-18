@@ -1,0 +1,10 @@
+{
+  "name": "proof-of-work",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AlexCFrost/proof-of-work.git",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
